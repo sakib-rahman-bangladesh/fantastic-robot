@@ -6,7 +6,7 @@ Structure: Playlagom
 
 **Development:** COMPLETION + QUALITY + PRODUCT
   - embedded teams
-      app
+    - app
       - producttracker
       - sharelocation
         - Designers
