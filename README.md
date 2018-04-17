@@ -3,7 +3,7 @@ SOLVE problem from LAND to SPACE (playlagom). We tackle the most challenging pro
 
 Structure: Playlagom
 --------------------
-```
+
 **Development:** COMPLETION + QUALITY + PRODUCT
   - embedded teams
       app
@@ -34,4 +34,4 @@ Structure: Playlagom
     - game
   
 **Research:** RULE/FORMULA/EQN
-```
+
