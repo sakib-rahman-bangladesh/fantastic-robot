@@ -5,8 +5,9 @@ Structure: Playlagom
 --------------------
 
 **Development:** COMPLETION + QUALITY + PRODUCT
+
 **Marketing:** ENGAGE + EARN
-- embedded teams
+  - embedded teams
   - app
     - producttracker
     - sharelocation
