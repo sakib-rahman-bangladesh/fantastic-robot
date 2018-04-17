@@ -3,6 +3,7 @@ SOLVE problem from LAND to SPACE (playlagom). We tackle the most challenging pro
 
 Structure: Playlagom
 --------------------
+**Security**, **Prosperity**, **Reliability** for the nation; next generation.
 
 > **Development:** COMPLETION + QUALITY + PRODUCT
 - embedded teams
