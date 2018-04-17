@@ -25,10 +25,10 @@ Structure: Playlagom
       - producttracker
       - sharelocation
         - Alpha Testers: 100 Internal Testers
-          - UNI lead: 1-5   0
-            - Version Report
-          - UNI lead: 5-20   0
-            - Version Report
+          - Uni lead: 1-10
+            - **MAKE** version Report
+          - Uni lead: 1-10
+            - **MAKE** version Report
         - Beta Testers: Customers
         - Production: Customers
       - bookbucket
@@ -43,7 +43,7 @@ Structure: Playlagom
         - RULE for **Production**
       - **MANAGE** Developers
       - **ENGAGE**, **MANAGE** Interns & Volunteers
-  - **CREATE**, **UPDATE** company policy
-  - **ANALYZE**, **GENERATE** business ideas
-  - Scientific Papers
+  - **CREATE**, **UPDATE** company **policy**
+  - **ANALYZE**, **GENERATE** business **ideas**
+  - **PUBLISH** Scientific Papers
 
