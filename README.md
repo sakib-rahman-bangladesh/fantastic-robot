@@ -8,17 +8,17 @@ Structure: Playlagom
 
 **Marketing:** ENGAGE + EARN
   - embedded teams
-  - app
-    - producttracker
-    - sharelocation
-      - Alpha Testers: 100 Internal Testers
-        - UNI lead: 1-5   0
-          - Version Report
-        - UNI lead: 5-20   0
-          - Version Report
-      - Beta Testers: Customers
-      - Production: Customers
-    - bookbucket
-  - game
+    - app
+      - producttracker
+      - sharelocation
+        - Alpha Testers: 100 Internal Testers
+          - UNI lead: 1-5   0
+            - Version Report
+          - UNI lead: 5-20   0
+            - Version Report
+        - Beta Testers: Customers
+        - Production: Customers
+      - bookbucket
+    - game
   
 **Research:** RULE/FORMULA/EQN
