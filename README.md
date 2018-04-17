@@ -1,10 +1,10 @@
 # fantastic-robot
 SOLVE problem from LAND to SPACE (playlagom). We tackle the most challenging problems in Computer Science and related fields.  Being bold and taking risks allows our embedded teams to make discoveries that affect billions of users every day(google).
 
-Structure: Playlagom
---------------------
 **Security**, **Prosperity**, **Reliability** for the nation; next generation.
 
+Structure: Playlagom
+--------------------
 > **Development:** COMPLETION + QUALITY + PRODUCT
 - embedded teams
   - app
