@@ -18,6 +18,7 @@ Structure: Playlagom
           - backend
           - ai
     - game
+    
 **Marketing:** ENGAGE + EARN
   - embedded teams
     - app
@@ -32,7 +33,7 @@ Structure: Playlagom
         - Production: Customers
       - bookbucket
     - game
-  
+    
 **Research:** RULE/FORMULA/EQN
   - TRACK, ANALYZE management RULES
     - embedded teams
