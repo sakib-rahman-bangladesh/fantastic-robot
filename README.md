@@ -34,4 +34,15 @@ Structure: Playlagom
     - game
   
 **Research:** RULE/FORMULA/EQN
+  - TRACK, ANALYZE management RULES
+    - embedded teams
+      - MANAGE Marketing
+        - Rules for Alpha: 100 Internal Testers
+        - RULE for Production
+        - RULE for Beta
+      - MANAGE Developers
+      - ENGAGE, MANAGE Interns & Volunteers
+  - CREATE, UPDATE company policy
+  - ANALYZE, GENERATE business ideas
+  - Scientific Papers
 
