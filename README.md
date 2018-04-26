@@ -3,8 +3,8 @@ SOLVE problem from LAND to SPACE (playlagom). We tackle the most challenging pro
 
 **Security**, **Prosperity**, **Reliability** for the nation; next generation.
 
-Structure: Playlagom
---------------------
+[Structure: Playlagom](https://drive.google.com/drive/folders/12YF-yCfWekrUp2k5n977a8VRq70IA63T)
+------------------------------------------------------------------------------------------------
 > **Development:** COMPLETION + QUALITY + PRODUCT
 - embedded teams
   - app
